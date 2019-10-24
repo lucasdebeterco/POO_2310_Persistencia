@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="13" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Pessoa">
+    <void property="codigo">
+     <int>1</int>
+    </void>
+    <void property="dataNascimento">
+     <object class="java.util.Date">
+      <long>976759200000</long>
+     </object>
+    </void>
+    <void property="email">
+     <string>lucasdebeterco@gmail.com</string>
+    </void>
+    <void property="nome">
+     <string>Lucas</string>
+    </void>
+    <void property="telefone">
+     <string>988672400</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Pessoa">
+    <void property="codigo">
+     <int>2</int>
+    </void>
+    <void property="dataNascimento">
+     <object class="java.util.Date">
+      <long>329022000000</long>
+     </object>
+    </void>
+    <void property="email">
+     <string>rodrigo@outlook.com</string>
+    </void>
+    <void property="nome">
+     <string>Rodrigo Curvello</string>
+    </void>
+    <void property="telefone">
+     <string>12345678</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
